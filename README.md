@@ -151,3 +151,6 @@ assets/         原创程序图标
 右上角选择简体中文、English 或 Français，立即同步主窗口、桌宠、托盘和提示，并保存在本机。系统原生对话框中的系统按钮遵循 Windows 语言。角色名、计划、备注和 AI 描述保持原文。
 
 新版数据位于 `%APPDATA%\PixelStella`。首次启动且新版存档不存在时，复制旧 `%APPDATA%\Xingban` 的 state.json 和引用的角色图片。旧文件不删除，不覆盖新版存档；异常存档会阻止迁移并提示启动失败，请先备份后修复。
+
+### 项目发起人及维护者：ZHANG ZHELIN（GitHub：@prodigylinda）。本项目使用 AI 辅助开发。本人承担的产品设计、功能决策、开发与测试工作按实际参与情况说明。
+#### 官方仓库：https://github.com/prodigylinda/PixelStella-Companion-YourComputerFriends
